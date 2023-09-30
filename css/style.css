@@ -1776,7 +1776,7 @@ section.parallax-section.hero-section .section-title h2 {
   z-index: 1;
 }
 .illustration_bg .bg {
-  opacity: 0;
+  opacity: 1;
 }
 /*------about------------------------------------------------*/
 .main-iamge {
