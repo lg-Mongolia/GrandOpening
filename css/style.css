@@ -1468,7 +1468,7 @@ section.parallax-section .bg {
   font-size: 30px;
   font-weight: 900;
   color: #323246;
-  font-family: "Poppins", cursive;
+  font-family: system-ui;
 }
 section.parallax-section.hero-section .section-title h2 {
   color: #fff;
