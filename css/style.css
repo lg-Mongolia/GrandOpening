@@ -1257,6 +1257,7 @@ footer.fixed-footer:before {
 .brush-dec {
   bottom: 0;
   background: url(../images/bg/brush-dec.png);
+  display:none;
 }
 .brush-dec2 {
   top: -2px;
